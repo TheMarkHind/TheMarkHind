@@ -12,6 +12,8 @@
 
 - I’m looking to collaborate on game developing team or company.
 
+- Had an experience in making projects for Android, PC and VR-devices on Unity.
+
 - How to reach me:
  
   Telegram: @markhind
