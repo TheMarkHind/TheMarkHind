@@ -5,7 +5,7 @@
 - I’m currently learning:
   
   For game-development: 
-  C#; 3D modelling in Blender, photoshop and game design. 
+  Unity; C#; 3D modelling in Blender, photoshop and game design. 
   
   For web-development:
   PHP, HTML, CSS languages; 1C-Bitrix CMS.
