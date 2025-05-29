@@ -1,6 +1,6 @@
-- Hi, I’m @TheMarkHind
+- Hi, I’m @mentalghost
 
-- I’m interested in game development, 3D-modelling and visual disign.
+- I’m interested in game and web dev.
 
 - I’m currently learning:
   
@@ -16,10 +16,6 @@
 
 - How to reach me:
  
-  Telegram: @markhind
+  Telegram: @mentalghost
   
-  Discord: markhind#1810
-  
-  VK: https://vk.com/hindmark
-  
-  WhatsApp, Viber - +7(930)302-59-40
+  VK: https://vk.com/mentalghost
